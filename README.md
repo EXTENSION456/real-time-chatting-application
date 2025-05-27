@@ -40,22 +40,23 @@ A modern, responsive real-time chat application built with **React**, **Tailwind
 
 ---
 
-### Installation
+## Installation
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/your-username/realtime-chat-app.git
 cd realtime-chat-app
 
-# Install dependencies
+### Install dependencies
 cd chat-app/
 npm install
 
-# Configuration
+### Configuration
 Create a .env file in the root directory
 VITE_BACKEND_URL = <your-backend-url>
 
-# Running the App
+### Running the App
 cd chat-app/
 npm start
 
-Note: To avoid common errors and improve project organization, i have pushed the client and server folders as separate repositories. This separation allows for easier deployment, better scalability, and cleaner version control.
+### Note:
+To avoid common errors and improve project organization, i have pushed the client and server folders as separate repositories. This separation allows for easier deployment, better scalability, and cleaner version control.
