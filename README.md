@@ -1,6 +1,6 @@
 # 💬 Real-Time Chat App
 
-A modern, responsive real-time chat application built with **React**, **Tailwind CSS**, **Socket.IO**, **Node.js** , **Express** and **MongoDb**
+A modern, responsive real-time chat application built with **React**, **Tailwind CSS**, **Socket.IO**, **Node.js** , **Express** and **MongoDb**.... 
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ A modern, responsive real-time chat application built with **React**, **Tailwind
 
 ---
 
-### 🔧 Installation
+### Installation
 
 # Clone the repository
 git clone https://github.com/your-username/realtime-chat-app.git
@@ -57,3 +57,5 @@ VITE_BACKEND_URL = <your-backend-url>
 # Running the App
 cd chat-app/
 npm start
+
+Note: To avoid common errors and improve project organization, i have pushed the client and server folders as separate repositories. This separation allows for easier deployment, better scalability, and cleaner version control.
