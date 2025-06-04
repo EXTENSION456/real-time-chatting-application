@@ -22,6 +22,7 @@ export const handleRegister = async (data) => {
     return { success: true };
   } catch (error) {
     console.log(error);
+    return { success: false };
   }
 };
 
